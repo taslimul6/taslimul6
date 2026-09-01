@@ -1,8 +1,6 @@
-<h1 align="center">Hello world 👋</h1>
-
-<p align="center">
+<h2 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+%F0%9F%91%8B,+I'm+Taslimul+Hasan;A+Passionate+Full+Stack+Developer;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9&center=true&width=500&height=45&color=0e75b6&vCenter=true&size=22" alt="Typing SVG" />
-</p>
+</h2>
 
 - 👋 Hi, I'm **@taslimul6**
 - 🖥️ I'm currently working on **React.js, Next.js, TypeScript and Redux** for frontend development.
