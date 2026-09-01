@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/taslimul6/taslimul6/main/git-taslimul.jpg" alt="Taslimul Hasan Banner" width="100%" />
+</p>
+
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+%F0%9F%91%8B,+I'm+Taslimul+Hasan;A+Passionate+Full+Stack+Developer;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9&center=true&width=500&height=45&color=0e75b6&vCenter=true&size=22" alt="Typing SVG" />
 </h2>
@@ -7,7 +11,7 @@
 - 🗄️ Using **Node.js, Express.js, MongoDB, MySQL, PostgreSQL and Prisma** for the backend.
 - 🌱 I'm currently learning **DevOps**.
 - 💬 Ask me about **JavaScript, Next.js, Node.js**.
-- 🌐 Explore my [Portfolio: taslimul.com ](https://taslimul.com) and my [Resume](https://taslimul.com/resume).
+- 🌐 Explore my [Portfolio](https://taslimul.com) and my [Resume](https://taslimul.com/resume).
 - 📝 I regularly write articles on my [Blog](https://taslimul.com/blog).
 - 📫 Feel free to reach me at [hasantaslimul@gmail.com](mailto:hasantaslimul@gmail.com).
 
