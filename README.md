@@ -67,14 +67,5 @@
 <a href="https://github.com/taslimul6"><img src="https://skillicons.dev/icons?i=postman,git,github,vscode" alt="Tools & Technologies" /></a>
 </p>
 
-<h3 align="center">GITHUB STATISTICS & ANALYSIS:</h3>
 
-**Repository Stats & Streak:**
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=taslimul6" alt="taslimul6" />
-</p>
 
-<h3 align="center">RANDOM DEV QUOTE:</h3>
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="taslimul6" />
-</p>
