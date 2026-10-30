@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/taslimul6/taslimul6/main/git-taslimul.jpg" alt="Taslimul Hasan Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/taslimul6/taslimul6/main/git-taslimul.png" alt="Taslimul Hasan Banner" width="100%" />
 </p>
 
 <h2 align="center">
